@@ -7,6 +7,6 @@ ponytown:
 
 typically in the homestuck area or with friends 
 
-sometimes i pm people if i like their ponies and im overall pretty talkative so feel free to pm me or talk to me on game 
+sometimes i pm people if i like their ponies and im overall pretty talkative so feel free to pm me or come up to me in game 
 
 ![dcca5e5d20026a8e3881c96e8108889e](https://github.com/user-attachments/assets/8d3a2a09-56e9-4d18-b856-043c641c715d) 
