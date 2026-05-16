@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.discordapp.net/attachments/841367774345429068/1505310426005766345/tumblr_83e13d189d896cfa579da09cb04d6f1a_4f5b37be_2048__fliter--sepia__channel--blue__mode--normal.png?ex=6a0a2914&is=6a08d794&hm=7ca9c2fa94abd659478cd168ebdd43f2ea5fb84815b7be43f1b50c9cba959a22&=&format=webp&quality=lossless&width=1872&height=129" alt="clouds divider" width="800" title="ic: uzmacchiato"></a>
+<img src="https://media.discordapp.net/attachments/841367774345429068/1505310426005766345/tumblr_83e13d189d896cfa579da09cb04d6f1a_4f5b37be_2048__fliter--sepia__channel--blue__mode--normal.png?ex=6a0a2914&is=6a08d794&hm=7ca9c2fa94abd659478cd168ebdd43f2ea5fb84815b7be43f1b50c9cba959a22&=&format=webp&quality=lossless&width=1872&height=129" alt="clouds divider" width="800" title="ic: ivy-vinezz"></a>
 
 $\color{#1F344D}{\textsf{just}}$ $\color{#254F61}{\textsf{know}}$ $\color{#28616B}{\textsf{i'm}}$ $\color{#2C7D79}{\textsf{a}}$ $\color{#85D6B5}{\textsf{liar,}}$
 
