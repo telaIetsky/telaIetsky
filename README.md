@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://64.media.tumblr.com/bc3a6e20b38e34fe7b898d464f174876/4c03cf772ce7f671-a1/s2048x3072/5eade35fa4b0a2b9e850db1a600586c789a358ad.pnj](https://media.discordapp.net/attachments/841367774345429068/1505310426005766345/tumblr_83e13d189d896cfa579da09cb04d6f1a_4f5b37be_2048__fliter--sepia__channel--blue__mode--normal.png?ex=6a0a2914&is=6a08d794&hm=7ca9c2fa94abd659478cd168ebdd43f2ea5fb84815b7be43f1b50c9cba959a22&=&format=webp&quality=lossless&width=1872&height=129)" alt="clouds divider" width="800" title="ic: uzmacchiato"></a>
+<img src="[https://media.discordapp.net/attachments/841367774345429068/1505310426005766345/tumblr_83e13d189d896cfa579da09cb04d6f1a_4f5b37be_2048__fliter--sepia__channel--blue__mode--normal.png?ex=6a0a2914&is=6a08d794&hm=7ca9c2fa94abd659478cd168ebdd43f2ea5fb84815b7be43f1b50c9cba959a22&=&format=webp&quality=lossless&width=1872&height=129?ex=6a0a2914&is=6a08d794&hm=7ca9c2fa94abd659478cd168ebdd43f2ea5fb84815b7be43f1b50c9cba959a22&=&format=webp&quality=lossless&width=1872&height=129)" alt="clouds divider" width="800" title="ic: uzmacchiato"></a>
 
 $\color{#1F344D}{\textsf{just}}$ $\color{#254F61}{\textsf{know}}$ $\color{#28616B}{\textsf{i'm}}$ $\color{#2C7D79}{\textsf{a}}$ $\color{#85D6B5}{\textsf{liar,}}$
 
