@@ -5,7 +5,7 @@ $\color{#6c584c}{\textsf{i}}$ $\color{#a98467}{\textsf{want}}$ $\color{#6c584c}{
 
 $\color{#6c584c}{\textsf{and}}$ $\color{#a98467}{\textsf{see}}$ $\color{#6c584c}{\textsf{how}}$ $\color{#a98467}{\textsf{you were}}$ $\color{#6c584c}{\textsf{designed.}}$
 
-<img src="https://files.catbox.moe/5aw5m6.png" width="600" alt="color spectrum" title="ac: bei-cha">
+<img src="https://files.catbox.moe/5aw5m6.png" width="600" alt="color spectrum" title="ac: kokos696sos">
 
 $\color{#6c584c}{\textsf{babe}}$ $\color{#a98467}{\textsf{of}}$ $\color{#6c584c}{\textsf{the}}$ $\color{#a98467}{\textsf{abyss}}$
 
