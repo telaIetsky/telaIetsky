@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://files.catbox.moe/r5ug3y.png" width="600" alt="color spectrum" title="ac: astrivion
+<img src="https://files.catbox.moe/ibxb9r.png" width="800" alt="color spectrum" title="ac: astrivion
 ">
 
 $\color{#B26E63}{\textsf{i}}$ $\color{#654C4F}{\textsf{want}}$ $\color{#B26E63}{\textsf{to}}$ $\color{#654C4F}{\textsf{take}}$ $\color{#654C4F}{\textsf{you apart}}$
