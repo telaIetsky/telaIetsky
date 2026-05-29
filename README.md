@@ -6,7 +6,7 @@ $\color{#f4845f}{\textsf{i}}$ $\color{#f27059}{\textsf{want}}$ $\color{#f4845f}{
 
 $\color{#f27059}{\textsf{and}}$ $\color{#f4845f}{\textsf{see}}$ $\color{#f27059}{\textsf{how}}$ $\color{#f4845f}{\textsf{you were}}$ $\color{#f27059}{\textsf{designed.}}$
 
-<img src="https://files.catbox.moe/fn09c4.png" width="600" alt="color spectrum" title="ac: wersnill">
+<img src="https://64.media.tumblr.com/6bb7c7956df598e1e642307fba3c643f/dfbf8144121178ca-aa/s1280x1920/1951b8d927d13b66f0fe89f5fa7d1ffbcdab2a4b.pnj" width="600" alt="color spectrum" title="ac: wersnill">
 
 $\color{#f4845f}{\textsf{babe}}$ $\color{#f27059}{\textsf{of}}$ $\color{#f4845f}{\textsf{the}}$ $\color{#f27059}{\textsf{abyss}}$
 
